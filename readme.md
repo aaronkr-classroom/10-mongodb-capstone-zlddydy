@@ -28,13 +28,13 @@ $ mongod
       Install the MongoDB and Mongoose packages.<br>
       MongoDB와 Mongoose 패키지를 설치하세요.
 - [ ] Create new files for:
-  - [ ] The Subscriber MODEL (`/models/Subscriber.js`)<br>
+  - [ ] The Subscriber MODEL (`/models/Subscriber.js`). `2/2`<br>
         구독자 모델을 위한 새로운 파일을 생성하세요.
-  - [ ] The subcriber VIEW (`/views/subscribers.ejs`).<br>
+  - [ ] The subcriber VIEW (`/views/subscribers.ejs`). `2/2`<br>
         구독자 목록을 보여주는 뷰를 생성하세요.
-  - [ ] The subscriber CONTROLLER (`/controllers/subscriberController.js`).<br>
+  - [ ] The subscriber CONTROLLER (`/controllers/subscriberController.js`). `2/2`<br>
         구독자 컨트롤러를 위한 새로운 파일을 생성하세요.
-- [ ] Add or update subscriber routes in `main.js`.<br>
+- [ ] Add or update subscriber routes in `main.js`. `2/2`<br>
       `main.js`에 구독자 라우트를 추가하거나 업데이트하세요.
 
 ### Included files / 포함된 파일
@@ -80,3 +80,11 @@ $ mongod
 |___package.json
 |___package-lock.json
 ```
+
+### Assignment Points / 과제 점수
+
+- **5-mongodb-capstone (NO TESTS) `(8/8)`** _(5월 12일까지)_
+  - main.js `(2/2)`
+  - /models/Subscriber.js `(2/2)`
+  - /views/subscribers.ejs `(2/2)`
+  - /controllers/subscriberController.js `(2/2)`
